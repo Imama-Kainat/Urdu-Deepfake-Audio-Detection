@@ -1,5 +1,5 @@
 
-![Project Banner](image(3).png)
+![Project Banner](image.png)
 
 # 📌 **Urdu Deepfake Audio Detection — README**
 
